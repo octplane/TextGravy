@@ -12,7 +12,7 @@ object Application extends Controller {
   	val secret = "13"
 
   	//initialize Flickr object with key and rest
-    val flickr = new Flickr(key, secret)
+    // val flickr = new Flickr(key, secret)
 
     // //initialize SearchParameter object, this object stores the search keyword
     // val searchParams = new SearchParameters();
